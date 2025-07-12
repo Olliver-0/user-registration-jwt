@@ -1,0 +1,1 @@
+This is an improved version of the user-registration, which is connected to node-api. Now this is connected to node-api-jwt. Also using React.js, Express.js, MongoDB, but now with more security using JWT. Original project from DevClub.
